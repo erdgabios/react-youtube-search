@@ -24,3 +24,8 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm start
 ```
 # react-youtube-search
+
+in src/index.js
+-- For your attention --
+// Put here your youtube-api-search key
+const API_KEY = '';
