@@ -1,3 +1,13 @@
+# react-youtube-search
+
+in src/index.js
+
+-- For your attention --
+
+// Put here your youtube-api-search key
+const API_KEY = '';
+
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
@@ -23,11 +33,3 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
-# react-youtube-search
-
-in src/index.js
-
--- For your attention --
-
-// Put here your youtube-api-search key
-const API_KEY = '';
